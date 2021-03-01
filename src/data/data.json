@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Virat Kohli",
+    "salary": 150000,
+    "age": 30,
+    "image": "https://i.ibb.co/0VZvZzN/virat-kohli.jpg"
+  }, {
+    "id": 2,
+    "name": "Shakib Al Hasan",
+    "salary": 150000,
+    "age": 33,
+    "image": "https://i.ibb.co/Bg11SkR/shakib-al-hasan.jpg"
+  }, {
+    "id": 3,
+    "name": "Rohit Sharma",
+    "salary": 120000,
+    "age": 32,
+    "image": "https://i.ibb.co/Cn11GVB/rohit-sharma.jpg"
+  }, {
+    "id": 4,
+    "name": "Steven Smith",
+    "salary": 110000,
+    "age": 32,
+    "image": "https://i.ibb.co/NYJmgVT/steven-smith.jpg"
+  }, {
+    "id": 5,
+    "name": "Mustafizur Rahman",
+    "salary": 70000,
+    "age": 25,
+    "image": "https://i.ibb.co/CHRDS6f/mustafizur-rahman.jpg"
+  }, {
+    "id": 6,
+    "name": "AB De Villiers",
+    "salary": 140000,
+    "age": 39,
+    "image": "https://i.ibb.co/St67nq0/ab-de-villiers.jpg"
+  }, {
+    "id": 7,
+    "name": "Mitchell Starc",
+    "salary": 100000,
+    "age": 28,
+    "image": "https://i.ibb.co/d5tVvS7/mitchell-starc.jpg"
+  }, {
+    "id": 8,
+    "name": "David Warner",
+    "salary": 130000,
+    "age": 30,
+    "image": "https://i.ibb.co/8rwmn0j/devid-warner.jpg"
+  }, {
+    "id": 9,
+    "name": "Mashrafe Mortaza",
+    "salary": 90000,
+    "age": 37,
+    "image": "https://i.ibb.co/D5YZRwp/masrafi-mortaza.jpg"
+  }, {
+    "id": 10,
+    "name": "Babar Azam",
+    "salary": 110000,
+    "age": 27,
+    "image": "https://i.ibb.co/2kTzxqh/babar-azam.jpg"
+  }, {
+    "id": 11,
+    "name": "Faf du Plessis",
+    "salary": 100000,
+    "age": 36,
+    "image": "https://i.ibb.co/qMd2xKg/faf-du-plessis.jpg"
+  }, {
+    "id": 12,
+    "name": "Jos Buttler",
+    "salary": 90000,
+    "age": 28,
+    "image": "https://i.ibb.co/z8YqWnF/jos-buttler.jpg"
+  }, {
+    "id": 13,
+    "name": "Rashid Khan",
+    "salary": 120000,
+    "age": 22,
+    "image": "https://i.ibb.co/FwLsb7x/rasid-khan.jpg"
+  }, {
+    "id": 14,
+    "name": "Jofra Archer",
+    "salary": 80000,
+    "age": 29,
+    "image": "https://i.ibb.co/B4SH4Th/jofra-archer.jpg"
+  }, {
+    "id": 15,
+    "name": "Ben Stock",
+    "salary": 130000,
+    "age": 28,
+    "image": "https://i.ibb.co/swbqNyb/ben-srokes.jpg"
+  }]
